@@ -1,7 +1,7 @@
 from matplotlib import pyplot as plt
 import networkx as nx
 
-
+#commentaire de alex voir si sa marcheeee 
 def display_nx_graph(G):
     """Display a NetworkX graph using matplotlib.
 
